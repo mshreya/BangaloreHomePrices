@@ -1,6 +1,3 @@
-Here's a basic template for your README file based on the information you provided:
-
----
 
 # Bangalore Home Prices Prediction Website
 
